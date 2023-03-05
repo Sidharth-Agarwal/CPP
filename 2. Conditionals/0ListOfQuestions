@@ -1,0 +1,131 @@
+1. Take input of two numbers and compare if they are equal or one is greater than the other one.
+
+eg. a=1,b=2
+    print - a is greater than b
+
+2. Take input of two numbers and check if the number is odd or even
+
+eg. a=2
+    print - a is an even number
+
+3. Take input of one character and tell is the character is uppercase/lowercase/number/symbol
+
+eg. c=G
+    print - The entered character is an uppercase character
+
+4. Take the input of age of the person and check whether he/she is eligible to vote or not(n>=18)
+
+eg. a=19
+    print - The person is eligible to vote 
+
+5. Take input of two numbers and tell which is lesser than the other one.
+
+eg. a=10,b=20
+    print - a is minimum of the two numbers.
+
+6. Take input of two numbers and tell which is greater than the other one.
+
+eg. a=10,b=20
+    print - b is maximum of the two numbers.
+
+7. Take input of three numbers and tell which is minimum among the three numbers.
+
+eg. a=1,b=2,c=3
+    print - a is minimum of the three numbers.
+
+8. Take input of three numbers and tell which is maximum among the three numbers.
+
+eg. a=1,b=2,c=3
+    print - c is maximum of the three numbers.
+
+9. Take input of length and breadth of the shape and tell if the shape is square or not
+
+eg. length = 10, breadth = 15
+    print - The shape is not a square.
+
+10. A shop will give discount of 10% if the cost of purchased quantity is more than 1000.
+    Ask user for quantity
+    Suppose, one unit will cost 100.
+    Judge and print total cost for user.
+
+eg. quantity = 10
+    Answer - 1000
+
+11. A company decided to give bonus of 5% to employee if his/her year of service is more than 5 years.
+    Ask user for their salary and year of service and print the net bonus amount.
+
+eg. time = 6
+    Answer - The employee will get a 5% percent bonus.
+
+12. Take input of one number and print the absolute value of the number.
+
+eg. a = -1
+    Answer - 1
+
+    b = 1
+    Answer - 1
+
+13. A student will not be allowed to sit in exam if his/her attendence is less than 75%.
+    Take following input from user
+    Number of classes held
+    Number of classes attended.
+    And print
+    percentage of class attended
+    Is student is allowed to sit in exam or not.
+
+eg. Just do it yourself please
+
+14. Program to check if a triangle is scalene, isosceles or equilateral.
+
+eg. a=10,b=10,c=15
+    print - The triangle is an isoceles triangle.
+
+15. Take input of a character and check if it is a vowel or consonant.
+
+eg. c=f
+    print -  The entered character a consonant.
+
+16. Take input of one number and check if the number is positive/negative/zero.
+
+eg. a=-1
+    print - The entered number is negative
+
+17. Take input of x and y cordinate of a point and tell whether the point is in first/second/third/fourth
+    plane.
+
+eg. x=-1,y=1
+    print - The input point is in second cordinate
+
+18. Take the input of the largest angle of the triangle and tell which type of triangle it is acute/
+    right-angeled/obtuse triangle
+
+eg. a=120
+    print - The triangle is an obtuse triangle.
+
+19. Write a program in C to read any digit, display in the word.(Switch Case)
+    Test Data :
+    4
+    Expected Output :
+    Four
+
+20. Take the input of a number and tell which weekday it it.(Switch Case)
+
+eg. a=5
+    Answer - Friday
+
+21. Take take input of the month number and tell which it is.(Switch Case)
+
+eg. a=10
+    Answer - October
+
+22. Take take input of the month number and tell how many days does the month contain.(Switch Case)
+
+eg. a=5
+    Answer - May
+
+23. Take the input of a year and check the entered year is leap year or not
+
+eg. a=2020
+    Answer - The entered year is a leap year.
+
+24. Design and simple calculator using switch case for +,-,*,/,%
